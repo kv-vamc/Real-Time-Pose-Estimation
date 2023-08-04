@@ -1,4 +1,4 @@
-# Real-Time Pose Estimation using Mediapipe and OpenCV
+# Real Time Pose Estimation using Mediapipe and OpenCV
 
 ## Introduction
 
