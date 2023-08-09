@@ -41,4 +41,4 @@ Contributions to the project are welcome! If you find any issues or have suggest
 
 ## Contact
 
-If you have any questions or feedback, you can reach me at your krishnavamsi3630258@gmail.com.
+If you have any questions or feedback, you can reach me at krishnavamsi3630258@gmail.com.
